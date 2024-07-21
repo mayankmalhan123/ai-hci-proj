@@ -1,0 +1,3 @@
+[submodule "multi-objective-opt-notebook"]
+	path = multi-objective-opt-notebook
+	url = https://github.com/joaobelo92/multi-objective-opt-notebook
